@@ -1,4 +1,5 @@
-1) Summary statistics
+1) Summary statistics:
+   
 Here are the summary statistics (count, mean, std, min, quartiles, max, plus median) for numeric features:
 Brief note:
 
